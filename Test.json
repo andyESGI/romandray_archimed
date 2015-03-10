@@ -1,0 +1,9 @@
+{
+  company: {
+    employees: [
+      { name: "Alice", employee.id: 1 },
+      { name: "Bob", employee.id: 2 },
+      { name: "Chris", employee.id: 3}
+    ]
+  }
+} 

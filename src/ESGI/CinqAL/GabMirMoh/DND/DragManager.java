@@ -67,6 +67,10 @@ public class DragManager implements DragGestureListener
                 return null;       	
             }
         };
-        o_AnEvent.startDrag(null, o_Trans);
+        o_AnEvent.startDrag(null, o_Trans);  
     }
+    
+    /*public int getSourceActions(JComponent c) {
+		return TransferHandler.MOVE;
+	}*/
 }
